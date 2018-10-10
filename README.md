@@ -1,7 +1,6 @@
 <h3>About</h3>
 
-A program in Spark or Hadoop that implements a simple “People You Might Know” social
-network friendship recommendation algorithm. If two people have a lot of mutual friends, then the system should recommend they connect with each other.
+A program in Spark that implements a simple “People You Might Know” social network friendship recommendation algorithm. If two people have a lot of mutual friends, then the system should recommend they connect with each other.
 
 <h3>Input</h3>
 
